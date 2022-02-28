@@ -1,0 +1,16 @@
+.mine1
+{
+    display:inherit;
+}
+
+.mine2{
+    padding-bottom: 4rem;
+}
+.mine3{
+    height: 100vh;
+}
+
+table, th, td {
+    border: 10px solid rgb(6, 148, 70);
+  }
+ 
